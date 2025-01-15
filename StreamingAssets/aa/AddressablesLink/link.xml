@@ -7,6 +7,8 @@
     <type fullname="PropProperties" preserve="all" />
     <type fullname="StandController" preserve="all" />
     <type fullname="VFXComponent" preserve="all" />
+    <type fullname="Chest" preserve="nothing" serialized="true" />
+    <type fullname="Reward" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
