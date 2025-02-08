@@ -1,7 +1,6 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="CollisionEventHandler" preserve="all" />
-    <type fullname="GravityActivator" preserve="all" />
     <type fullname="LevelListSO" preserve="all" />
     <type fullname="LevelSO" preserve="all" />
     <type fullname="PropEventHandler" preserve="all" />
@@ -9,7 +8,6 @@
     <type fullname="StandController" preserve="all" />
     <type fullname="VFXComponent" preserve="all" />
     <type fullname="Chest" preserve="nothing" serialized="true" />
-    <type fullname="Reward" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -32,7 +30,6 @@
     <type fullname="UnityEngine.MeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
-    <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
   </assembly>
