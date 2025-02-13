@@ -2,6 +2,7 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="CollisionEventHandler" preserve="all" />
     <type fullname="LevelListSO" preserve="all" />
+    <type fullname="LevelSerialization" preserve="all" />
     <type fullname="LevelSO" preserve="all" />
     <type fullname="PropEventHandler" preserve="all" />
     <type fullname="PropProperties" preserve="all" />
